@@ -1,0 +1,22 @@
+%450 CsA Pc1v 2
+
+C4= (-0.905, -0.355);
+C5 = (0.202, 0.244);
+C6 = (0.621, -0.103);
+C7 = (1.04, -0.312);
+
+%310 dCsA
+
+C8 = ( -0.261, -0.142); %new state
+C9 = (1.99,0.236); % possibly s3, 
+
+%450 dCsA
+
+C10 = (0.303,0.800); %new state
+C11 = (1.99,0.236); % new
+
+%510 dCsA
+
+C10 = (0.3,0.914) % possibly corelates with C10 at 450 dCsA
+C11 = (1.04, -0.206); %sim position to C11 at 450 dCsA
+C12 = (-0.725, -0.302); % possibly correlates to s4 in 450 CsA
